@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Tight Dust",
+      "project_slug": "tight_dust_30",
+      "project_dash_slug": "tight-dust-30",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "hr_group@cb-dev.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
